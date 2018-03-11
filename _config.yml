@@ -3,7 +3,7 @@ title:              Financially
 bio:                'Personal finance blog'
 description:        "Learn to make your money work for you"
 locale:             en_US
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/financialblog/blob/master/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 defaults:
 - scope:
