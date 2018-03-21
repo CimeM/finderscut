@@ -1,9 +1,9 @@
 # Site
-title:              Financially
+title:              finder's cut
 bio:                'Personal finance blog'
 description:        "Learn to make your money work for you"
 locale:             en_US
-baseurl: "/financialblog" # the subpath of your site, e.g. /blog
+baseurl: "/finderscut" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 defaults:
 - scope:
@@ -40,7 +40,7 @@ instagram:          default
 
 # personal
 location:           Slovenia, EU
-email:              info@finannciall.com
+email:              info@finderscut.com
 
 # Gems
 gems:
@@ -54,7 +54,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://cime19.github.io/
+    base_url: https://cimem.github.io/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
