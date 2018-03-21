@@ -1,9 +1,9 @@
 # Site
-title:              Financially
+title:              Finder's cut
 bio:                'Personal finance blog'
 description:        "Learn to make your money work for you"
 locale:             en_US
-baseurl: "/notbuyingit" # the subpath of your site, e.g. /blog
+baseurl: "/finderscut" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 defaults:
 - scope:
@@ -40,7 +40,7 @@ instagram:          default
 
 # personal
 location:           Slovenia, EU
-email:              info@finannciall.com
+email:              info@finderscut.com
 
 # Gems
 gems:
