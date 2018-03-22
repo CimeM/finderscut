@@ -1,7 +1,7 @@
 # Site
 title:              finder's cut
 bio:                'Personal finance blog'
-description:        "Learn to make your money work for you"
+description:        "An engineer being thrifty"
 locale:             en_US
 baseurl: "/finderscut" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
