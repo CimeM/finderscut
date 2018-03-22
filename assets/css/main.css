@@ -1837,6 +1837,9 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #212931;
+	}
+
+	h2, h3, h4, h5, h6 {
 		max-width: 680px;
     text-align: justify;
     margin: 0em auto 2rem auto;
