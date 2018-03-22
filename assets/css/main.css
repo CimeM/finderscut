@@ -1704,7 +1704,7 @@
 		margin-left: auto;
     margin-right: auto;
     line-height: 32px;
-    font-size: 16px;
+    font-size: 19px;
     max-width: 680px;
     text-align: justify;
     margin: 0em auto 2rem auto;
@@ -2739,7 +2739,7 @@
 		}
 
 		header > h1 + p {
-			font-size: 1.1rem;
+			font-size: 1.3rem;
 			margin-top: -0.5rem;
 			line-height: 2;
 		}
