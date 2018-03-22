@@ -12,14 +12,13 @@ If you’re like me, you probably don’t know how much power does your fridge u
 
 While the costs may seem low it doesn’t mean they are for you. In the long run, those expenses actually burn a lot more than what you think. Not only for persistently beating up your paycheck, but also for our carbon footprint. Power plants hum 24/7 to power the whole city. Large smog clouds pollute our sky as tons of coal is being burned in hot furnaces by the minute. In return, we can watch our TVs, keep our food cold and watch cats online.
 
-This is why it’s important to know how much electricity our home is consuming. With every saved KW/h we burn less fuel.
-Every kW/h saved at home is the same one saved many fold. Due to burning in power plants, transporting the energy over the grid and providing the fuel for the plant.
+This is why it’s important to know how much electricity our home is consuming. *Every kW/h saved at home is the same one saved many fold.* Due to burning in power plants, transporting the energy over the grid and providing the fuel for the plant.
 
 Measuring your consumption for the entire home is easy. Just open your power cabinet (where the fuses are). There you will find your power meter. And you can probably see how much you are spending at the moment.
 
-Now, you need to understand your consumption changes by the time of the day, the season and even year. Power consumption often reflects our habits, because at winter we often stay in our heated apartments where it’s warm and comfortable, watching seasons of Game of Thrones or True Blood and drinking tea, heated by our electric stove. In summer we spend our time outdoors burning bonfires and looking at stars at nights. At the same time, we don’t have to heat up our home in summer, we cool it down, using AC.
+Now, you need to understand *your consumption changes by the time of the day, the season and even year*. Power consumption often reflects our habits, because at winter we often stay in our heated apartments where it’s warm and comfortable, watching seasons of Game of Thrones or True Blood and drinking tea, heated by our electric stove. In summer we spend our time outdoors burning bonfires and looking at stars at nights. At the same time, we don’t have to heat up our home in summer, we cool it down, using AC.
 
-It’s not bad if we use electricity, however, its wrong if we use it carelessly. Your devices burn electricity and you will save money if you make conscious decisions on which ones to buy and how to use them, you will save money and help with reducing the carbon footprint. Usually, economical devices cost more, but that can be a returning investment if you know how much you will save using it in the long run.
+It’s not bad if we use electricity, however, *its wrong if we use it carelessly*. Your devices burn electricity and you will save money if you make conscious decisions on which ones to buy and how to use them, you will save money and help with reducing the carbon footprint. Usually, economical devices cost more, but that can be a returning investment *if you know how much you will save using it in the long run*.
 
 ### Measuring the damage
 If you want to measure your consumption by the device, you can look up the specs in the manuals that came with the device. The other way is to get power meters, that is connected to the wall socket and your appliance. This way you will immediately know how much they’re spending. Knowing the price of utilities, you can calculate your spending price.
